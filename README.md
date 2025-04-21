@@ -4,7 +4,7 @@ Aspiring Software Developer | BCA | Curious and Enthusiastic Learner
 
 - 🔭 Currently working On React Projects
 - 🌱 Exploring Java & DSA 
-- 📚 My Final year project: **Factory Information Management System (.NET)**
+- 📚 My Final year project: **Factory Information Management System**
 - 🎯 Goal: Become a software engineer
 
 ### I code in
