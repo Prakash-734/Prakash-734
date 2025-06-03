@@ -1,6 +1,6 @@
 ## <span style="font-family: 'Courier New', Courier, monospace;">Hey there 👋 I'm Prakash M</span>
 
-Aspiring Software Developer | BCA | Curious and Enthusiastic Learner  
+Aspiring FrontEnd Developer | BCA | Curious and Enthusiastic Learner  
 
 - 🔭 Currently working On React Projects
 - 🌱 Exploring Java & DSA 
